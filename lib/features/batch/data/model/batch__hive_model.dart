@@ -1,7 +1,7 @@
 import 'package:hive/hive.dart';
 import 'package:student_clean_arc/config/constants/hive_table_constant.dart';
 import 'package:uuid/uuid.dart';
-part 'batch_hive_model.g.dart';
+
 
 @HiveType(typeId: HiveTableConstant.batchTableId)
 
